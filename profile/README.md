@@ -1,7 +1,7 @@
 <a href="https://poltura.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/banner-dark.jpg">
-    <img alt="Poltura: a fresh way to build webshops" src="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/banner-light.jpg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg">
+    <img alt="Poltura: a fresh way to build webshops" src="assets/banner-light.jpg" width="100%">
   </picture>
 </a>
 
@@ -10,12 +10,12 @@
 Poltura is an e-commerce platform built for European merchants. Themes, checkout, a customer inbox and an assistant for the day-to-day work come with the shop. Build your store free and pay when you open.
 
 <p>
-<a href="https://poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-website-dark.svg"><img alt="poltura.com" src="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-website-light.svg" height="32"></picture></a>
-<a href="https://discord.gg/BBGZurYXRG"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-discord-dark.svg"><img alt="Discord" src="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-discord-light.svg" height="32"></picture></a>
-<a href="mailto:hello@poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-email-dark.svg"><img alt="hello@poltura.com" src="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-email-light.svg" height="32"></picture></a>
+<a href="https://poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-website-dark.svg"><img alt="poltura.com" src="assets/badge-website-light.svg" height="32"></picture></a>
+<a href="https://discord.gg/BBGZurYXRG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-discord-dark.svg"><img alt="Discord" src="assets/badge-discord-light.svg" height="32"></picture></a>
+<a href="mailto:hello@poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg"><img alt="hello@poltura.com" src="assets/badge-email-light.svg" height="32"></picture></a>
 <!--
-<a href="https://docs.poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-docs-dark.svg"><img alt="Help center" src="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-docs-light.svg" height="32"></picture></a>
-<a href="https://developers.poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-developers-dark.svg"><img alt="Developer docs" src="https://raw.githubusercontent.com/poltura/.github/main/profile/assets/badge-developers-light.svg" height="32"></picture></a>
+<a href="https://docs.poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-docs-dark.svg"><img alt="Help center" src="assets/badge-docs-light.svg" height="32"></picture></a>
+<a href="https://developers.poltura.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-developers-dark.svg"><img alt="Developer docs" src="assets/badge-developers-light.svg" height="32"></picture></a>
 -->
 </p>
 
