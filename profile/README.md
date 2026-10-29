@@ -33,4 +33,4 @@ Poltura is a fresh e-commerce platform for European merchants: easier to set up,
 - **Themes in code.** React themes written in TSX against a typed SDK, edited in the browser or on your own machine with the Poltura CLI.
 - **Apps and the App API.** Admin pages, storefront blocks and webhooks from one manifest. The app platform opens to outside developers soon.
 
-<sub><b>Made in the EU.</b> Poltura is built in Hungary. Consent, data requests, VAT and invoicing work the way EU and Hungarian rules expect, from the first day you sell.</sub>
+<sub><b>Made in the EU.</b> Consent, data requests, VAT and invoicing work the way EU rules expect, from the first day you sell.</sub>
