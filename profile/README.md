@@ -1,7 +1,7 @@
 <a href="https://poltura.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg">
-    <img alt="Poltura: the webshop that does the work for you" src="assets/banner-light.jpg" width="100%">
+    <img alt="Poltura: a fresh way to build webshops" src="assets/banner-light.jpg" width="100%">
   </picture>
 </a>
 
